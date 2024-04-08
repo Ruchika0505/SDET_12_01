@@ -4,9 +4,9 @@
   <test name="mytest">
     <classes>
     	
-    	 <class name="Day11.FirstTest"/>
+    	 
          <class name="Day11.SecondTest"/>
-    	 <class name="Day11.ThirdTest"/>
+    	
       
     </classes>
   </test> 

@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Day12.GroupingDemo"/>
+      <class name="Day11.mercurylogin"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
